@@ -1,0 +1,24 @@
+#Infinite Lives
+8007582C 0009
+#Infinite Health
+80078BBC 0003
+#Moon Jump
+D0077380 0040
+80078AD8 0000
+#Always Have Key
+80075830 0001
+#Have All Dragon Eggs
+80075810 000C
+#Have Over 65,000 Jewels
+80075860 FFFF
+#Infinite Time On Flying Levels
+80075840 053C
+80075908 053C
+#Always Have Super Flame Breath
+80078768 02DA
+#Get One of Each to Complete Flight Levels		
+8003CAE4 0008
+8003CAE6 2402
+#Crash Bandicoot Warped Demo\Infinite Lives
+800AAEB0 0400
+
