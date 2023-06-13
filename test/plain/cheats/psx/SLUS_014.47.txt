@@ -1,0 +1,4 @@
+#Infinite Health
+80087F54 0004
+#Infinite Run Power
+80087F62 0064
