@@ -1,0 +1,332 @@
+#Car Never Overheats
+D0087204 0440
+8008720A 2400
+D0087228 0006
+8008722E 2400
+D008725C 1021
+80087262 2400
+
+#Amateur Championship GT1 Complete		
+3002794C 0001
+
+#Amateur Championship GT1 Complete		
+3002794E 0001
+
+#Amateur Championship Prototype Complete		
+3002794D 0001
+
+#Amatuer Lemans LM GT1 Winner Complete		
+30027951 0001
+
+#Amatuer Lemans LM GT2 Winner Complete		
+3002794F 0001
+
+#Amatuer Lemans	LM Prototype Winner Complete		
+30027950 0001
+
+#Amatuer Lemans	LM Winner Complete		
+30027952 0001
+
+#Arcade Challenge-Amateur Cup GT1 Complete		
+3002793C 0001
+
+#Arcade Challenge-Amateur Cup GT2 Complete		
+3002793A 0001
+
+#Arcade Challenge-Amateur Cup Prototype Complete		
+3002793B 0001
+
+#Arcade Challenge-Pro Cup GT1 Complete		
+3002793F 0001
+
+#Arcade Challenge-Pro Cup GT2 Complete		
+3002793D 0001
+
+#Arcade Challenge-Pro Cup Prototype Complete		
+3002793E 0001
+
+#Arcade Challenge-Pro Cup Reverse GT1 Complete		
+30027942 0001
+
+#Arcade Challenge-Pro Cup Reverse GT2 Complete		
+30027940 0001
+
+#Arcade Challenge-Pro Cup Reverse Prototype Complete		
+30027941 0001
+
+#Arcade Time Attack-Amateur Cup GT1 Complete		
+30027945 0001
+
+#Arcade Time Attack-Amateur Cup	GT2 Complete		
+30027943 0001
+
+#Arcade Time Attack-Amateur Cup	Proto Complete		
+30027944 0001
+
+#Arcade Time Attack-Pro Cup GT1 Complete		
+30027948 0001
+
+#Arcade Time Attack-Pro Cup GT2 Complete		
+30027946 0001
+
+#Arcade Time Attack-Pro Cup Prototype Complete		
+30027947 0001
+
+#Arcade Time Attack-Pro Cup Reverse GT1 Complete		
+3002794B 0001
+
+#Arcade Time Attack-Pro Cup Reverse GT2 Complete		
+30027949 0001
+
+#Arcade Time Attack-Pro Cup Reverse Prototype Complete		
+3002794A 0001
+
+#Pro Championship GT1 Complete		
+30027955 0001
+
+#Pro Championship GT2 Complete		
+30027953 0001
+
+#Pro Championship Prototype Complete		
+30027954 0001
+
+#Pro Lemans All Races Complete 	
+50002001 0000
+3002793A 0001
+
+#Pro Lemans Amatuer Challenge GT1-Unlock All Cars		
+80027ABE 002F
+
+#Pro Lemans Amatuer Challenge GT2-Unlock All Cars		
+80027ABA 000F
+
+#Pro Lemans Amatuer Challenge Prototype-Unlock All Cars		
+80027ABC 001F
+
+#Pro Lemans Amatuer Time Attack GT1-Unlock All Cars		
+80027ACA 002F
+
+#Pro Lemans Amatuer Time Attack GT2-Unlock All Cars		
+80027AC6 000F
+
+#Pro Lemans Amatuer Time Attack Prototype-Unlock All Cars		
+80027AC8 001F
+
+#Pro Lemans Infinite Fuel		
+80088736 2400
+
+#Pro Lemans LM GT1 Winner Complete		
+30027958 0001
+
+#Pro Lemans LM GT2 Winner Complete		
+30027956 0001
+
+#Pro Lemans LM Prototype Winner Complete		
+30027957 0001
+
+#Pro Lemans LM Winner Complete		
+30027959 0001
+
+#Pro Lemans Professional Challenge GT1-Unlock All Cars		
+80027AC4 002F
+
+#Pro Lemans Professional Challenge GT2-Unlock All Cars		
+80027AC0 000F
+
+#Pro Lemans Professional Challenge Prototype-Unlock All Cars		
+80027AC2 001F
+
+#Pro Lemans Professional Time Attack GT1-Unlock All Cars		
+80027AD0 002F
+
+#Pro Lemans Professional Time Attack GT2-Unlock All Cars		
+80027ACC 000F
+
+#Pro Lemans Professional Time Attack Prototype-Unlock All Cars		
+80027ACE 001F
+
+#Pro Lemans Quick Win-Chamberlain Viper, Philippe Gache Motorsport, & JB Giesse Team (GT1)		
+300281CA 0003
+E0046CA4 0000
+30046CA4 0003
+
+#Pro Lemans Quick Win-Chrysler Viper Oreca, Joest Racing, & Nissan Motorsports		
+300281CA 0003
+E0049C34 0000
+30049C34 0003
+
+#Pro Lemans Quick Win-Cirtek, Courage Competition, & GTC Competition		
+300281CA 0003
+E004846C 0000
+3004846C 0003
+
+#Pro Lemans Quick Win-Konrad Motorsport, La Filier, & Panoz Motorsports (Gray Car)		
+300281CA 0003
+E0047888 0000
+30047888 0003
+
+#Pro Lemans Quick Win-Larbre Competition, BMW Motorsport, & Toyota Motorsports		
+300281CA 0003
+E004A818 0000
+3004A818 0003
+
+#Pro Lemans Quick Win-Roock Racing (GT2), JB Giesse Team (Proto), & Panoz Motorsports (Purple Car)		
+300281CA 0003
+E0049050 0000
+30049050 0003
+
+#Pro Lemans Quick Win-Team Agusta Racing, Pilot Racing, & Roock Racing (GT1)		
+300281CA 0003
+E00460C0 0000
+300460C0 0003
+
+#Pro Lemans Quick Win-Team Marcos, Kremer Racing, & Lister Cars		
+300281CA 0003
+E00454DC 0000
+300454DC 0003
+
+#Pro Lemans Stop Checkpoint Timer		
+D00757E8 FFFF
+800757F2 2400
+
+#Pro Lemans Stop Lap Timer		
+D0068614 0001
+8006861A 2400
+
+#Pro Lemans Stop Total Time Timer		
+D0075728 0001
+8007572E 2400
+
+#Pro Lemans Unlock All Cars (Arcade Mode) 	
+50000406 0000
+80027ABA 000F
+50000406 0000
+80027ABC 001F
+50000406 0000
+80027ABE 002F
+
+#Pro Lemans Win in LaMans Mode Easily-Chamberlain Viper, Philippe Gache Motorsport, & JB Giesse Team (GT1)	
+E0046CA4 0000
+30046CA4 00C8
+
+#Pro Lemans Win in LaMans Mode Easily-Chrysler Viper Oreca, Joest Racing, & Nissan Motorsports		
+E0049C34 0000
+30049C34 00C8
+
+#Pro Lemans Win in LaMans Mode Easily-Cirtek, Courage Competition, & GTC Competition		
+E004846C 0000
+3004846C 00C8
+
+#Pro Lemans Win in LaMans Mode Easily-Konrad Motorsport, La Filier, & Panoz Motorsports (Gray Car)		
+E0047888 0000
+30047888 00C8
+
+#Pro Lemans Win in LaMans Mode Easily-Larbre Competition, BMW Motorsport, & Toyota Motorsports		
+E004A818 0000
+3004A818 00C8
+
+#Pro Lemans Win in LaMans Mode Easily-Roock Racing (GT2), JB Giesse Team (Proto), & Panoz Motorsports (Purple Car)		
+E0049050 0000
+30049050 00C8
+
+#Pro Lemans Win in LaMans Mode Easily-Team Agusta Racing, Pilot Racing, & Roock Racing (GT1)		
+E00460C0 0000
+300460C0 00C8
+
+#Pro Lemans Win in LaMans Mode Easily-Team Marcos, Kremer Racing, & Lister Cars		
+E00454DC 0000
+300454DC 00C8
+
+#Max Championship Points Chamberlin Viper-55		
+800279DE 00FF
+
+#Max Championship Points Chamberlin Viper-56		
+800279E0 00FF
+
+#Max Championship Points Cirtek-48		
+800279E8 00FF
+
+#Max Championship Points Cirtek-49		
+800279E6 00FF
+
+#Max Championship Points Courage Competition-13		
+80027A08 00FF
+
+#Max Championship Points Courage Competition-14		
+80027A06 00FF
+
+#Max Championship Points GTC Competition-40		
+80027A16 00FF
+
+#Max Championship Points GTC Competition-41		
+80027A18 00FF
+
+#Max Championship Points JB Giesse Team-25		
+80027A0E 00FF
+
+#Max Championship Points JB Giesse Team-26		
+80027A10 00FF
+
+#Max Championship Points JB Giesse Team-5		
+80027A0A 00FF
+
+#Max Championship Points JB Giesse Team-6		
+80027A0C 00FF
+
+#Max Championship Points Konrad Motorsport-70		
+800279E2 00FF
+
+#Max Championship Points Konrad Motorsport-73		
+800279E4 00FF
+
+#Max Championship Points Kremer Racing-16		
+800279F6 00FF
+
+#Max Championship Points Kremer Racing-17		
+800279F8 00FF
+
+#Max Championship Points La Filiere-15		
+80027A02 00FF
+
+#Max Championship Points La Filiere-19		
+80027A04 00FF
+
+#Max Championship Points Panoz Motorsports-44		
+80027A14 00FF
+
+#Max Championship Points Panoz Motorsports-45		
+80027A12 00FF
+
+#Max Championship Points Panoz Motorsports-46		
+80027A1C 00FF
+
+#Max Championship Points Panoz Motorsports-47		
+80027A1A 00FF
+
+#Max Championship Points Phillippe Gache Racing-20		
+800279FE 00FF
+
+#Max Championship Points Phillippe Gache Racing-21		
+80027A00 00FF
+
+#Max Championship Points Pilot Racing-10		
+800279FA 00FF
+
+#Max Championship Points Pilot Racing-11		
+800279FC 00FF
+
+#Max Championship Points Roock Racing-64		
+800279EC 00FF
+
+#Max Championship Points Roock Racing-65		
+800279EA 00FF
+
+#Max Championship Points Team Agusta Racing-59		
+800279DC 00FF
+
+#Max Championship Points Team Agusta Racing-60		
+800279DA 00FF
+
+#Max Championship Points Team Marcos-52		
+800279D8 00FF
+
