@@ -1,0 +1,17 @@
+- actress : actress-name 
+- title   : fallen-angel-2024 
+- length  : 1h29m
+- pixel   : 720p
+- desc    : fine
+- ext     : mp4
+
+output:
+actress-name-fallen-angel-2024-1h29m-720p-fine.mp4
+
+
+classification:
+1 - special
+2 - high density
+4 - recommended
+
+
