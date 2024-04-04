@@ -14,5 +14,7 @@ classification:
 2 - high density
 4 - recommended
 
+3 = for special and high density
 5 = for special and recommended
+
 
