@@ -16,5 +16,6 @@ classification:
 
 3 = for special and high density
 5 = for special and recommended
+6 = for high density and recommended
 
 
